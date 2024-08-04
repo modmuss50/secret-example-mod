@@ -13,3 +13,7 @@ No support is guaranteed for this version, and there are known issues. This is a
 ## For modders
 - Clone this repository
 - Make mods!
+
+### Credits
+
+Thanks to [https://omniarchive.uk/](https://omniarchive.uk/) for finding and hosting this lost version of Minecraft.
